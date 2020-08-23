@@ -4,3 +4,4 @@ The password generator in this assignment is composed of html, css and lots of j
 
 
 
+(images/Image 8-22-20 at 11.40 PM.jpeg)
