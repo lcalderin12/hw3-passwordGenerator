@@ -4,4 +4,4 @@ The password generator in this assignment is composed of html, css and lots of j
 
 
 
-![](Image 8-22-20 at 11.40 PM.jpeg)
+![](images/Image%208-22-20%20at%2011.40%20PM.jpeg)
